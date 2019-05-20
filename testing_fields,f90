@@ -2,7 +2,7 @@ PROGRAM testing_fields
 USE charged_objects
 USE vector_functions
 IMPLICIT NONE
-
+!kk
 !!Definiendo mis objetos masivos
 TYPE(charged_particles) :: antiproton !!Objeto tipo particula cargada: antiproton
 TYPE(charged_particles) :: proton !!Objeto tipo particula
